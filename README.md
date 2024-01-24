@@ -31,3 +31,13 @@ Welcome to your first run at Git! This is a simple exercise to get you familiar 
 ## Submission
 - Submit the URL to your GitHub repository to Learning Suite.
 - Take a screenshot of your repository's main page, showing proof of your multiple commits, and include it in your submission as well.
+
+## HW3
+Clone your ICA 3 to a NEW FOLDER, and do the following:
+
+Add a fourth page
+Update all of the navbars on each of the previous pages to include the new fourth page.
+Add a user form with 4 different input types (They may be of whatever type you want--text, number, color, image, date, datetime, etc.--feel free to get creative!)
+The submit button of the form should redirect the user back to the index.html page.
+Stage, commit, and push all your changes to the newly initialized GitHub Repository.
+Submit the completed branch to GitHub Pages, upload the site.
